@@ -30,7 +30,8 @@ This script is developed strictly for **educational and ethical purposes**. Unau
 ## 📥 Installation and Usage
 
 ### 📱 For Termux
-1. **Install Termux**: [Download Termux](https://termux.com/)
+1. **Install Termux**: [Download Termux (v0.118.0)](https://f-droid.org/repo/com.termux_118.apk)
+
 2. **Update Termux packages**:
    ```bash
    pkg update && pkg upgrade -y
