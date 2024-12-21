@@ -110,13 +110,6 @@ This project is licensed under the **MIT License**. You are free to use and modi
 
 ---
 
-## 📷 Screenshots
-Here’s an example of the script in action:
-
-> Screenshot goes here. You can add a screenshot URL or upload it directly to your GitHub repository.
-
----
-
 ## ❤️ Acknowledgments
 Special thanks to the contributors and testers who made this project possible!
 
